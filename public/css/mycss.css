@@ -1,0 +1,18 @@
+.pdpcompte{
+    width: 300px; height: 200px; 
+    border-radius: 50% ; border: groove 1em violet ;
+}
+
+.pdpcomptenav{
+    width: 40px; height: 40px; 
+    border-radius: 50% ; 
+}
+
+.divimagecenter{
+    text-align: center;  
+    margin-bottom: 20px;
+}
+
+.espace{
+    margin: 20px;
+}
